@@ -18,4 +18,4 @@ The _Algorium_ project will simplify this learning process via various visualiza
 
 
 # Hospital Management
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://imgur.com/5Xy0qJJ)
