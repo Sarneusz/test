@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://toppng.com/uploads/preview/deer-11523086443v2uwvdflho.png" </img>
-</div>
+
 
 # Algorium
 
